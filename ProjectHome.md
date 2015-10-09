@@ -1,0 +1,3 @@
+This is a chatting application which have functionality like chatting and file sharing...
+
+If you want to join, just mail me at lipun4u@gmail.com
